@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Audiowide&display=swap");
+.button-group {
+  gap: 10px;
+}
+.modal-body input {
+  border: 1px solid rgb(188, 187, 187);
+  outline: none;
+  height: 40px;
+  border-radius: 5px;
+  padding: 0 10px;
+  width: 60%;
+  margin: 5px;
+}
+
+
+.total-text-container label{
+  margin: 0 20px;
+  font-weight: bold;
+}
+
+.total-text-container span{
+  color: red;
+  font-weight: bold;
+}
